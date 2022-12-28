@@ -2,3 +2,5 @@
 
 **ndp48-web** - Mircosoft .NET Framework 4.8 Installer (Source: https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer)
 
+**vcredist2010_x86** - Microsoft Visual Studio C++ 2010 Redistributable (x86/32-bit version, required for SA2)
+
