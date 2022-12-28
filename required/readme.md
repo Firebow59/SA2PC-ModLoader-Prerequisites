@@ -4,5 +4,4 @@
 
 **vcredist2010_x86** - Microsoft Visual Studio C++ 2010 Redistributable (x86/32-bit version, required for SA2)
 
-**dotnet-runtime-5.0.17-win-x86** - .NET 5.0 Runtime (Source: https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
-  NOTE: If you need the x64 version, use the link above.
+**dotnet-runtime-5.0.17-win-x86** - .NET 5.0 Runtime (Source: https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)                                        NOTE: If you need the x64 version, use the source link.
