@@ -8,4 +8,4 @@
 
 NOTE: If you need the x64 version, use the source link.
 
-- **temp**
+- **vcredist** - Various Microsoft Visual Studio C++ Redistributables from various years.
