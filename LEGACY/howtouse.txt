@@ -1,0 +1,1 @@
+Rename the original Launcher.exe to Config.exe, and copy and paste the EXE in this folder to your root SA2 folder (where Launcher.exe is located)
